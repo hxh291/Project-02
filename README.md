@@ -15,3 +15,11 @@ On to #11, "Variables." I really did not have an issue with this one. I basicall
 #12 was the creation of file1.txt with the cat > command. Once I typed in the demo sentence, I pressed CTRL+D to return to the terminal commands. Then I typed cat < followed by file1.txt and my demo text printed out.
 
 #13 through 17 were pretty much the same as "Variables." I followed the instructions and was able to modify the backup.sh script, but because of issues in #10, executing the script did not work out perfectly. I will continue to see if I can get it to work. If I am unable to, then I will only be able to pull in the .sh scripts that we created in this project.
+
+***** CODE REVIEW*****( Aaron Tapp )
+After reviewing the code blocks, I felt they were implented correctly.
+Maybe, I would clean up the code to make it more easier on the eyes, but 
+for the most part, it function and is the same code as what I have. Maybe,
+to clean it up, they can indent a little more to separate the lines of code,
+so if anyone needs to modify in a team setting, they can easily do so
+and while adding comments. Other than that, good job!
